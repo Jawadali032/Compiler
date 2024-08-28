@@ -1,0 +1,39 @@
+DataType, int, Line: 4
+main, main, Line: 4
+(, (, Line: 4
+), ), Line: 4
+{, {, Line: 4
+DataType, int, Line: 5
+ID, A, Line: 5
+[, [, Line: 5
+Int Const, 4, Line: 5
+], ], Line: 5
+=, =, Line: 5
+{, {, Line: 5
+Int Const, 1, Line: 5
+,, ,, Line: 5
+Int Const, 2, Line: 5
+,, ,, Line: 5
+Int Const, 3, Line: 5
+,, ,, Line: 5
+Int Const, 4, Line: 5
+}, }, Line: 5
+;, ;, Line: 5
+DataType, int, Line: 6
+ID, A, Line: 6
+[, [, Line: 6
+Int Const, 3, Line: 6
+], ], Line: 6
+=, =, Line: 6
+{, {, Line: 6
+Int Const, 2, Line: 6
+,, ,, Line: 6
+Int Const, 3, Line: 6
+,, ,, Line: 6
+Int Const, 4, Line: 6
+}, }, Line: 6
+return, return, Line: 8
+Int Const, 0, Line: 8
+;, ;, Line: 8
+}, }, Line: 9
+$, $, Line: {line_number + 1}
